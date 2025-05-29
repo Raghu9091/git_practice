@@ -21,7 +21,7 @@ then
         echo "installing  my sql is FAILURE"
         exit 1
     fi
-else
+ else
     echo "My sQL is Alredy installed,nothing to do"
 
 fi
